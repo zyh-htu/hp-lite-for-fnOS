@@ -1,0 +1,15 @@
+[
+  {
+    "stepTitle": "欢迎使用",
+    "items": [
+      {
+        "type": "password",
+        "field": "code",
+        "label": "请输入连接码",
+        "rules": [],
+        "options": [],
+        "initValue": ""
+      }
+    ]
+  }
+]

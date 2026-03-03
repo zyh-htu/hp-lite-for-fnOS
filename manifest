@@ -1,0 +1,12 @@
+appname=hp-lite
+version=6.0
+display_name=hp-lite客户端
+desc="""这是一个内网穿透，日志在文件管理—应用文件—hp-lite—hp-lite.log"""
+platform=x86
+source=thirdparty
+maintainer=黑小马
+maintainer_url=https://gitee.com/HServer/hp-lite
+distributor=张亚豪
+distributor_url=https://github.com/zyh-htu/hp-lite-for-fnOS
+ctl_stop=true
+checksum=fedcfa2103018093beb36eeaefd360dc
