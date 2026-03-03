@@ -1,7 +1,0 @@
-{
-  "username": "hp-lite",
-  "groupname": "hp-lite",
-  "defaults": {
-    "run-as": "package"
-  }
-}
